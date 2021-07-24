@@ -1,0 +1,1 @@
+npx sequelize-auto =0 "./models/old_db" -d database_development -h 127.0.0.1 -u root -p 3306 e mysql
